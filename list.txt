@@ -21,5 +21,3 @@ edit for pull (waiting conflict)
 conflict...again
 
 confrict resolved
-
-need revert
