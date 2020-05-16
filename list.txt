@@ -3,7 +3,7 @@
 •merge (без конфликтов слияния)
 •merge (с конфликтами слияния)
 •push
-pull (можете внести изменения в файлы через сайт Github и затем спуллить изменения)
+•pull (можете внести изменения в файлы через сайт Github и затем спуллить изменения)
 pull (с конфликтами слияния)
 rebase
 revert
@@ -16,4 +16,4 @@ this is conflict
 
 conflict resolved
 
-edit for pull
+edit for pull (waiting conflict)
