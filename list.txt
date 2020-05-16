@@ -7,7 +7,5 @@ pull (можете внести изменения в файлы через са
 pull (с конфликтами слияния)
 rebase
 revert
-tags (создайте несколько тегов, проверьте что они будут запушены на Github)
-stash
-cherry-pick
-reset
+
+this is conflict
