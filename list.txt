@@ -17,3 +17,7 @@ this is conflict
 conflict resolved
 
 edit for pull (waiting conflict)
+
+conflict...again
+
+confrict resolved
