@@ -9,7 +9,7 @@
 •revert
 •tags (создайте несколько тегов, проверьте что они будут запушены на Github)
 •stash
-cherry-pick
+•cherry-pick
 reset
 
 this is conflict
