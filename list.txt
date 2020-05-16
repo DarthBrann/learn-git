@@ -7,5 +7,4 @@ pull (можете внести изменения в файлы через са
 pull (с конфликтами слияния)
 rebase
 revert
-
 this is conflict
