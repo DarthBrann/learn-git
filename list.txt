@@ -15,3 +15,5 @@ reset
 this is conflict
 
 conflict resolved
+
+edit for pull
